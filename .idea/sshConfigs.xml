@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="appserver.dev.ad4356fd-9616-41b0-8c8c-50eaeec705fc.drush.in" id="b9a1fcc4-0913-4f4e-91d7-02787ae3d9bf" port="2222" nameFormat="DESCRIPTIVE" username="dev.ad4356fd-9616-41b0-8c8c-50eaeec705fc" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

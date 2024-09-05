@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="696f1586-361f-47de-a90e-61d6fd847ada" name="proconnects">
+        <fileTransfer rootFolder="/code" accessType="SFTP" host="appserver.dev.ad4356fd-9616-41b0-8c8c-50eaeec705fc.drush.in" port="2222" sshConfigId="b9a1fcc4-0913-4f4e-91d7-02787ae3d9bf" sshConfig="dev.ad4356fd-9616-41b0-8c8c-50eaeec705fc@appserver.dev.ad4356fd-9616-41b0-8c8c-50eaeec705fc.drush.in:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
